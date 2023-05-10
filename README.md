@@ -1,0 +1,2 @@
+# Some-Signal-Processing-Stuff
+In the field of signal processing, many people are trying to grasp various concepts. To assist those seeking practical applications, I am developing Python and MATLAB/Octave codes that I believe will be highly valuable. If I am able to manage my time effectively, I plan to organize this repository in a manner that covers a wide range of terminologies, explaining their meanings and how they can be utilized to solve real-world problems
